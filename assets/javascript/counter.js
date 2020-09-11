@@ -10,6 +10,7 @@ let counter = document.querySelector("#counter");
 // I want some code to run.
 
 incrementButton.addEventListener("click", function () {
+  
   // Any code you write here, will run every time incrementButton
   // is clicked.
   // Run the console.log function to display some text in the console:
